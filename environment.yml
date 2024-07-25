@@ -1,0 +1,5 @@
+name: akasha_arts_for_binder
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling=0.15.3
